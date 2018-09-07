@@ -1,0 +1,14 @@
+{
+  "name": "javascript-pixijs-test-task",
+  "version": "1.0.0",
+  "description": "Task: Imagine that we have a rectangular playing field consisting of cells. At each cell can have one game element. If you select any of the cells, we must remove from the field the element and the entire associated group of the same elements (example image in /docs/example.jpg). How would you implement the search for elements of such a group? Make a decision tasks in the form of code.",
+  "main": "index.html",
+  "directories": {
+    "doc": "docs"
+  },
+  "author": "Yurii Panazdyr",
+  "license": "ISC",
+  "devDependencies": {
+    "live-server": "^1.2.0"
+  }
+}
